@@ -1,6 +1,6 @@
 # kbanner
 
-「没啥用出品，必是没啥用」
+「没啥用出品，必是没啥用」![Maven Central Version](https://img.shields.io/maven-central/v/io.github.rerubbish/kbanner)
 
 此插件用于 ktor 框架，在启动时打印 banner，类似 Spring 框架在启动时打印 banner 的效果。
 
